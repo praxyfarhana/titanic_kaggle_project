@@ -3,9 +3,9 @@ Welcome to my machine learning project for the Kaggle Titanic - Machine Learning
 
 📁 Project Structure
 
-├── data/
-│   ├── train.csv
-│   ├── test.csv
+Data Sets
+train.csv
+test.csv
 
 🎯 Objective
 To build a machine learning model that predicts whether a given passenger survived the Titanic disaster, based on features like age, gender, class, fare, and family relations.
@@ -53,6 +53,8 @@ Female passengers had higher survival rates
 1st-class passengers were more likely to survive
 
 Feature engineering boosted model performance
+
+Github link: https://github.com/praxyfarhana/titanic_kaggle_project/blob/main/survival-prediction.ipynb
 
 📧 Contact
 Farhana Agufa
