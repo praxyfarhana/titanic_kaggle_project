@@ -1,4 +1,5 @@
 🛳️ Titanic Survival Prediction - Kaggle Competition
+
 Welcome to my machine learning project for the Kaggle Titanic - Machine Learning from Disaster competition. This project involves predicting survival outcomes for passengers on the Titanic using classification models and data analysis techniques.
 
 📁 Project Structure
